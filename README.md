@@ -2,7 +2,7 @@
 
 A simple web application to collect restaurant ratings and feedback and display basic analytics. This project is hosted using GitHub Pages.
 
- Live Demo: https://24maindes.github.io/SL/
+ Live Demo:  https://24maindes.github.io/RestaurantReviewAnalyzer/
 
 ## Features
 - Submit restaurant ratings and reviews  
